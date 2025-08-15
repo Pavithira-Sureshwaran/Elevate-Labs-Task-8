@@ -1,1 +1,2 @@
 # Elevate-Labs-Task-8
+This is a Java Quiz App. Here, I have created a Question and QuizApp class. Quesion class contains the variables and parameteried constructor. In QuizApp class, I used the List to add a number of quesions and options by using Question class constructor. I used the for loop to get the answer from console. If the answer is correct , the score will increase by 1. Finally, the final will score will be displayed.
