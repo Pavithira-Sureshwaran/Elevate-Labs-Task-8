@@ -1,0 +1,40 @@
+Question 1: Which of the following is not a Java primitive data type?
+1. int
+2. float
+3. boolean
+4. String
+Enter your answer (1-4): 4
+ Correct!
+
+Question 2: Which language is used for Android development?
+1. Python
+2. Java
+3. C#
+4. Swift
+Enter your answer (1-4): 2
+ Correct!
+
+Question 3: Which keyword is used to inherit a class in Java?
+1. this
+2. extends
+3. implments
+4. inherits
+Enter your answer (1-4): 2
+ Correct!
+
+Question 4: Which method is the entry point of Java program
+1.start()
+2. main()
+3. run()
+4. init()
+Enter your answer (1-4): 2
+ Correct!
+
+Question 5: What is the default value of a boolean variable in Java?
+1.true
+2. false
+3. null
+4. 0
+Enter your answer (1-4): 2
+ Correct!
+ Your final score: 5/5
